@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    margin-top: 8%;
+    margin-left: 40%;
+}
+
+#contenedor {
+    text-align: center;
+    height: 420px;
+    width: 320px;
+    background-color: rgb(41, 41, 41);
+    border-style: solid;
+    border-color: black;
+    
+ }
+ 
+ #contenedor form {
+     height: 100%;
+     width: 100%;
+     text-align: center;
+    
+ }
+ 
+ .gray{
+     background-color: rgb(155, 155, 155);
+     border-radius: 100%;
+     border-color: transparent;
+     height: 70px;
+     width: 70px;
+     font-size: 25px;
+ }
+ 
+ .orange{
+     background-color: rgb(144, 58, 165);
+     border-radius: 100%;
+     border-color:transparent;
+     height: 70px;
+     width: 70px;
+     font-size: 25px;
+ }
+ 
+ .white{
+     background-color: white;
+     border-radius: 100%;
+     border-color:transparent;
+     height: 70px;
+     width: 70px;
+     font-size: 25px;
+ }
+ 
+ #pan{
+     height: 50px;
+     width: 250px;
+     background-color: aliceblue;
+  border-color: transparent;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-style: solid;
+  border-color: black;
+  font-size: 25px;
+ }
+ 
